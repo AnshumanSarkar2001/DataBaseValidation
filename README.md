@@ -46,7 +46,7 @@ Step 5: Open cmd to the path of the folder where you downloaded the jar file.
         
 Step 6: write command java -jar “jar file which you want to run with extension”
 
-        Eg: java -jar CashAppDBValidation.jar
+        Eg: java -jar DBValidation.jar
           
 
 
